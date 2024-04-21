@@ -1,1 +1,1 @@
-robocopy "dist\{FolderName}\Base" "{PathMO2Mods}\{MO2ModNameTest}" /e /xf meta.ini
+robocopy "dist\Wandering Merchants\Base" "E:\Skyrim\MO2\mods\Wandering Merchants (pre-release) []" /e /xf meta.ini

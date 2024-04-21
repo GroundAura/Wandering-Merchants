@@ -1,2 +1,2 @@
-copy "build\{ZipName}.zip" "{PathMO2Downloads}"
-copy "build\MO2\{ZipName}.zip.meta" "{PathMO2Downloads}"
+copy "build\Wandering Merchants.zip" "E:\Skyrim\MO2\downloads"
+copy "build\MO2\Wandering Merchants.zip.meta" "E:\Skyrim\MO2\downloads"

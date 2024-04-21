@@ -1,3 +1,6 @@
-# Skyrim Project Template by GroundAura
+# Wandering Merchants
 
-GroundAura's repository template for Skyrim mod projects. Includes starting files, file structure, and several workflow scripts for various purposes. Feel free to use and adjust anything here for your own needs.
+Wandering Merchants is a mod for Skyrim Special Edition created by RainstormWander.
+
+This mod can be found on [Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/64440).
+That is the best place to find installation information, comment, report bugs, and find contact information.
