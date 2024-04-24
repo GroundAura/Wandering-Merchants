@@ -23,9 +23,6 @@
             "label": "Zip to build",
             "group": "build",
             "dependsOn": [
-                "Compile Papyrus Scripts (Release)",
-                "copy-img.bat",
-                "copy-pex.bat",
                 "zip.bat"
             ]
         },
